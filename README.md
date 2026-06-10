@@ -1,3 +1,3 @@
 # private
-my private file.
+my private file
 
